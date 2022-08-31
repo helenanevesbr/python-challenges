@@ -3,7 +3,8 @@
 ## Small projects:
 <ul>
 <li><b>dice_roll_simulator:</b> text-based user interface (TUI) dice-rolling application</li>
-<li><b>palidromes_seeker:</b> searches for palidrome words inside strings</li>
+<li><b>palindromes_seeker:</b> searches for palidrome words inside strings</li>
+<li><b>powerful_power_calculator:</b> calculate power in which the exponent or base can be negative numbers</li>
 </ul>
 
 ## How to use it:
