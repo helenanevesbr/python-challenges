@@ -27,9 +27,7 @@ def processar_arquivo_cartoes(nome_arquivo_cartoes, bandeira_cartao, taxa, preco
                 index = 0
                 while True:
                     bloco = arquivo.read(cartoes.size)
-                    print("'Bloco' a cada read, enquanto não foi completamente consumido por ele", bloco)
                     if not bloco:
-                        print("Valor de 'Bloco' após read ter lido consumido todos os bytes do arquivo bin:", bloco)
                         break
                     bandeira, valor = decodifica_dados_cartoes(bloco)
                     if bandeira_cartao == bandeira:
