@@ -2,9 +2,9 @@
 
 ## Small projects:
 <ul>
-<li><b>dice_roll_simulator:</b> text-based user interface (TUI) dice-rolling application</li>
-<li><b>palindromes_seeker:</b> searches for palidrome words inside strings</li>
-<li><b>powerful_power_calculator:</b> calculate power in which the exponent or base can be negative numbers</li>
+<li><b>palindromes_seeker:</b> searches for palidrome words inside strings <sup>(English)<sup></li>
+<li><b>powerful_power_calculator:</b> calculate power in which the exponent or base can be negative numbers <sup>(English)<sup></li>
+<li><b>credit_card_discount_in_bin_file:</b> converts text file into a binary file then decodes it to calculate the client's discount <sup>(Portuguese)<sup></li>
 </ul>
 
 ## How to use it:
