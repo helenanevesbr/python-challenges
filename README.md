@@ -9,7 +9,7 @@
 
 ## How to use it:
 <ol>
-<li>Navigate to the specific branch on the list above
+<li>Navigate to the specific folder on the list above
 <li>Download code as a ZIP file</li>
 <li>Try out the app</li>
 </ol>
