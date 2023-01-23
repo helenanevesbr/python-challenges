@@ -1,7 +1,7 @@
 base = input('Base:')
 exp = input('Expoente:')
 
-from dispatcher import are_integers
+from powerful_power_calculator.dispatcher import are_integers
 
 if not are_integers(base, exp):
     exit()
